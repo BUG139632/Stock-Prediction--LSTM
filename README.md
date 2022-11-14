@@ -1,1 +1,1 @@
-# stock-predicting-LSTM
+# stock-prediction-LSTM
